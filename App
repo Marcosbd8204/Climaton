@@ -1,0 +1,1 @@
+Pasta onde colocaremos todo o arquivo que será usado no app
